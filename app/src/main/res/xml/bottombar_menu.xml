@@ -1,0 +1,22 @@
+<tabs>
+    <tab
+        id="@+id/bottomBarItemBuyCoin"
+        icon="@drawable/buy_coin"
+        title="@string/buy_coin" />
+    <tab
+        id="@+id/bottomBarItemSellCoin"
+        icon="@drawable/sell_coin"
+        title="@string/sell_coin" />
+    <tab
+        id="@+id/bottomBarItemPayment"
+        icon="@drawable/stats"
+        title="@string/payment" />
+    <tab
+        id="@+id/bottomBarItemDetails"
+        icon="@drawable/deals"
+        title="@string/Deals" />
+    <tab
+        id="@+id/bottomBarItemSettings"
+        icon="@drawable/settings"
+        title="@string/settings" />
+</tabs>
